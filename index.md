@@ -22,4 +22,5 @@
    - intrinsiche Motivation
    - intrinsiche Belohnungen und positives Feedback
    - Weiterbildung
+ - Bereiche "Anxiety" und "Boredom" meiden (siehe Grafik)
  - Eine Arbeitsatmosphäre welche Flow begünstigt ist auch immer eine postitive Arbeitsatmosphäre = Win-Win
