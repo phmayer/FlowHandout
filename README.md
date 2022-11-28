@@ -11,7 +11,7 @@
  - Wenn "Challenge-Level" und "Skill-Level" in perfekter Balance sind. (siehe Grafik)
  - Kann nur schwer willentlich hervorgerufen werden, man kann Flow aber bewusst begünstigen!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg" alt="Flow Modell Grafik" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg" alt="Flow Modell Grafik" width="600"/>
 
 ### Wie mache ich mir das Flowmodel zu nutzen?
 
