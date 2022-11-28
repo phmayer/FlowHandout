@@ -13,7 +13,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg" alt="Flow Modell Grafik" width="500"/>
 
-### Wie mache ich mir das Flowmodel zu nutzen?
+### Wie mache ich mir das Flowmodel zu nutze?
 
  - Flow begünstigen durch:
    - ideale Arbeitssituationen (Ablenkungen meiden / Fokus erhöhen)
