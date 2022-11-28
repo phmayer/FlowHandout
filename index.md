@@ -4,11 +4,11 @@
 
  - Zustand der völligen Motivation und Konzentration
  - Zeitgefühl, Müdigkeit, Hunger, Durst und das Selbstgefühl rücken in den Hintergrund
- - Flow kann in vielen Verschiedenen Situationen auftreten
+ - Flow kann in vielen verschiedenen Situationen auftreten
 
 ### Wie entsteht Flow?
 
- - Wenn "Challenge-Level" und "Skill-Level" in perfekter Balance sind. (siehe Grafik)
+ - Wenn "Challenge-Level" und "Skill-Level" in perfekter Balance sind (siehe Grafik)
  - Kann nur schwer willentlich hervorgerufen werden, man kann Flow aber bewusst begünstigen!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg" alt="Flow Modell Grafik" width="500"/>
