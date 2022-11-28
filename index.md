@@ -8,7 +8,7 @@
 
 ### Wie entsteht Flow?
 
- - Wenn "Challenge-Level" und "Skill-Level" in perfekter Balance sind (siehe Grafik)
+ - Wenn `Challenge-Level` und `Skill-Level` in perfekter Balance sind _(siehe Grafik)_
  - Kann nur schwer willentlich hervorgerufen werden, man kann Flow aber bewusst begünstigen!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg" alt="Flow Modell Grafik" width="500"/>
@@ -22,5 +22,5 @@
    - intrinsiche Motivation
    - intrinsiche Belohnungen und positives Feedback
    - Weiterbildung
- - Bereiche "Anxiety" und "Boredom" meiden (siehe Grafik)
+ - Bereiche `Anxiety` und `Boredom` meiden _(siehe Grafik)_
  - Eine Arbeitsatmosphäre welche Flow begünstigt ist auch immer eine postitive Arbeitsatmosphäre = Win-Win
